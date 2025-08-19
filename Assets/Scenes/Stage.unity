@@ -3322,7 +3322,7 @@ AudioSource:
   m_GameObject: {fileID: 523906895}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 24300002, guid: 9591957d6f54bef4084f8f1a7114c3af, type: 2}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 0430c93e0f6318942b127ad518283695, type: 2}
   m_audioClip: {fileID: 8300000, guid: cdf4b95b7d2c94a46be6418742c69cbb, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -8682,10 +8682,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 672044824}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8e12f41ac632464493eb6b8aaab5094, type: 3}
+  m_Script: {fileID: 11500000, guid: 2c6c994df726fea4493162f17e481d69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 10
+  playerSpeed: 5
   playerDamage: 1
 --- !u!50 &672044827
 Rigidbody2D:
@@ -17752,7 +17752,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d0d37de8dea8104383bd91697ba203d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mixer: {fileID: 24100000, guid: 9591957d6f54bef4084f8f1a7114c3af, type: 2}
+  mixer: {fileID: 24100000, guid: 0430c93e0f6318942b127ad518283695, type: 2}
   slider: {fileID: 1745757953}
 --- !u!114 &1745757953
 MonoBehaviour:
